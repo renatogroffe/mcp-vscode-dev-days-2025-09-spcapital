@@ -20,7 +20,7 @@ Evento: **VS Code Dev Days São Paulo**
 
 Data: **27/09/2025 (sábado)**
 
-Número de participantes: **45 pessoas**
+Número de participantes: **120 pessoas (estimativa)**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Docker Compose, Docker MCP Catalog, .NET, ASP.NET Core, C#, Azure API Management, Java, Node.js, Python, Claude, Cursor, OpenAI, PostgreSQL, SQL Server, Linux...**
 
@@ -53,3 +53,23 @@ Deixo aqui meus agradecimentos à **Cynthia Zanoni (Microsoft)**, ao **Thiago Ad
 ![Programação](img/mcp/programacao.png)
 
 ![Banner](img/mcp/banner.jpg)
+
+![Feedback 1](img/linkedin/vscode-devdays-lnkd-02.png)
+
+![Feedback 2](img/linkedin/vscode-devdays-lnkd-03.png)
+
+![Feedback 3](img/linkedin/vscode-devdays-lnkd-04.png)
+
+![Feedback 4](img/linkedin/vscode-devdays-lnkd-05.png)
+
+![Feedback 5](img/linkedin/vscode-devdays-lnkd-06.png)
+
+![Feedback 6](img/linkedin/vscode-devdays-lnkd-07.png)
+
+![Feedback 7](img/linkedin/vscode-devdays-lnkd-08.png)
+
+![Feedback 8](img/linkedin/vscode-devdays-lnkd-09.png)
+
+![Feedback 9](img/linkedin/vscode-devdays-lnkd-10.png)
+
+![Feedback 10](img/linkedin/vscode-devdays-lnkd-11.png)
