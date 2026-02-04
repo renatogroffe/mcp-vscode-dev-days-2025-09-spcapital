@@ -22,7 +22,7 @@ Data: **27/09/2025 (sábado)**
 
 Número de participantes: **45 pessoas**
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Docker Compose, Docker MCP Catalog, .NET, ASP.NET Core, C#, Java, Node.js, Python, Claude, Cursor, OpenAI, PostgreSQL, SQL Server, Linux...**
+Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Docker Compose, Docker MCP Catalog, .NET, ASP.NET Core, C#, Azure API Management, Java, Node.js, Python, Claude, Cursor, OpenAI, PostgreSQL, SQL Server, Linux...**
 
 Acesse este [**link**](/img/mcp/) para visualizar todas as fotos da apresentação.
 
@@ -42,9 +42,9 @@ Deixo aqui meus agradecimentos à **Cynthia Zanoni (Microsoft)**, ao **Thiago Ad
 
 ![Renato palestrando 2](img/mcp/mcp-04.jpg)
 
-![Renato palestrando 3](img/mcp-20.jpeg)
+![Renato palestrando 3](img/mcp/IMG-20250928-WA0092.jpg)
 
-![Renato palestrando 4](img/mcp-02.jpeg)
+![Renato palestrando 4](img/mcp/IMG-20250928-WA0090.jpg)
 
 ![Renato palestrando 5](img/mcp/mcp-02.jpg)
 
