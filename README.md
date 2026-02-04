@@ -1,8 +1,6 @@
 # mcp-vscode-dev-days-2025-09-spcapital
 Conteúdos de apresentação sobre MCP realizada no dia 27/09/2025.
 
-COMPLEMENTAR
-
 Tecnologias abordadas: MCP, AI, LLMs, GitHub Copilot, Docker, Docker MCP Hub, Visual Studio Code, Azure API Management, .NET, Java, Node.js, Python...
 
 ## Referências
