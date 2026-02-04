@@ -34,7 +34,7 @@ Site do Evento: **https://github.com/microsoft/VS-Code-Dev-Days**
 
 Local: **Av. Paulista, 1106 - 7o andar - Bela Vista - São Paulo-SP - CEP: 01311-000**
 
-Deixo aqui meus agradecimentos à **Cynthia Zanoni (Microsoft)**, ao **Thiago Adriano (Microsoft MVP, FIAP)**, à **Karina Armando**, à **Marcia Marrocos Amaral** e demais organizadores por todo o apoio para que eu partipasse como palestrante **VS Code Dev Days São Paulo**.
+Deixo aqui meus agradecimentos à **Cynthia Zanoni (Microsoft)**, ao **Thiago Adriano (Microsoft MVP, FIAP)** e demais organizadores por todo o apoio para que eu partipasse como palestrante **VS Code Dev Days São Paulo**.
 
 ---
 
