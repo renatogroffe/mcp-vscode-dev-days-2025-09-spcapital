@@ -50,4 +50,6 @@ Deixo aqui meus agradecimentos à **Cynthia Zanoni (Microsoft)**, ao **Thiago Ad
 
 ![Renato palestrando 6](img/mcp-12.jpeg)
 
-![Banner](img/banner-dev-referencias-2025.jpeg)
+![Programação](img/mcp/programacao.png)
+
+![Banner](img/mcp/banner.jpg)
