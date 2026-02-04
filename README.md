@@ -38,17 +38,17 @@ Deixo aqui meus agradecimentos à **Cynthia Zanoni (Microsoft)**, ao **Thiago Ad
 
 ---
 
-![Renato palestrando 1](img/mcp-11.jpeg)
+![Renato palestrando 1](img/mcp/mcp-05.jpg)
 
-![Renato palestrando 2](img/mcp-10.jpeg)
+![Renato palestrando 2](img/mcp/mcp-04.jpg)
 
 ![Renato palestrando 3](img/mcp-20.jpeg)
 
 ![Renato palestrando 4](img/mcp-02.jpeg)
 
-![Renato palestrando 5](img/mcp-32.jpeg)
+![Renato palestrando 5](img/mcp/mcp-02.jpg)
 
-![Renato palestrando 6](img/mcp-12.jpeg)
+![Renato palestrando 6](img/mcp/mcp-09.jpg)
 
 ![Programação](img/mcp/programacao.png)
 
