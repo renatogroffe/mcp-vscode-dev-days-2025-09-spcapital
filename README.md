@@ -14,27 +14,27 @@ Tecnologias abordadas: MCP, AI, LLMs, GitHub Copilot, Docker, Docker MCP Hub, Vi
 
 ## Informações sobre o evento
 
-Título da apresentação: **Desenvolvendo MCP Servers: integrando com facilidade as mais variadas tecnologias a soluções de IA!**
+Título da apresentação: **Model Context Protocol - MCP: Descomplicando integrações no mundo da IA - Uma visão geral**
 
-Evento: **Dev Referências 2025**
+Evento: **VS Code Dev Days São Paulo**
 
-Data: **08/11/2025 (sábado)**
+Data: **27/09/2025 (sábado)**
 
 Número de participantes: **45 pessoas**
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, LLMs, MCP, GitHub Copilot, Visual Studio Code, Docker, Docker Compose, Docker MCP Catalog, .NET, ASP.NET Core, C#, Java, Node.js, Python, Claude, Cursor, OpenAI, PostgreSQL, SQL Server, Linux...**
 
-Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
+Acesse este [**link**](/img/mcp/) para visualizar todas as fotos da apresentação.
 
-Divulgação em redes sociais: [**LinkedIn**](https://www.linkedin.com/posts/dev-refer%C3%AAncias_dr2025-tecnologia-dr2025-activity-7378531639481577472-wNaG/) | [**Instagram - Vídeo**](https://www.instagram.com/p/DSn546yjdL-/)
+Divulgação em redes sociais: [**LinkedIn**](https://www.linkedin.com/events/7361871921379971074/) | [**Meetup**](https://www.meetup.com/womakerscode/events/311069372/) | [**LinkedIn - Pós-Evento**](https://www.linkedin.com/posts/cynthiazanoni_vscodedevdays-visualstudiocode-githubcopilot-activity-7378470054188724224-Svz5/)
 
-Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/dev-referencias/3060749)
+Formulário utilizado para inscrições: [**Luma**](https://luma.com/qnqhcznt)
 
-Site do Evento: **https://devreferencias.com.br/**
+Site do Evento: **https://github.com/microsoft/VS-Code-Dev-Days**
 
-Local: **Impacta - Rua Cubatão, 726 - Vila Mariana - São Paulo-SP - CEP: 04013-002**
+Local: **Av. Paulista, 1106 - 7o andar - Bela Vista - São Paulo-SP - CEP: 01311-000**
 
-Deixo aqui meus agradecimentos ao **Bruno Lins**, ao **Fábio Araújo**, à **Karina Armando**, à **Marcia Marrocos Amaral** e demais organizadores por todo o apoio para que eu partipasse como palestrante de mais uma edição do **Dev Referências**.
+Deixo aqui meus agradecimentos à **Cynthia Zanoni (Microsoft)**, ao **Thiago Adriano (Microsoft MVP, FIAP)**, à **Karina Armando**, à **Marcia Marrocos Amaral** e demais organizadores por todo o apoio para que eu partipasse como palestrante **VS Code Dev Days São Paulo**.
 
 ---
 
